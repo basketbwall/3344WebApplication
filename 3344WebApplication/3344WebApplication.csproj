@@ -67,7 +67,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="HtmlPage1.html" />
+    <Content Include="HomePage.html" />
+    <Content Include="HomePageStyle.css" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
